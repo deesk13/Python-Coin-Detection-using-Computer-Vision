@@ -79,7 +79,12 @@ else:
 
 ```
 ## OUTPUT:
-<img width="1259" height="485" alt="image" src="https://github.com/user-attachments/assets/706ec133-1204-4d6c-870b-1e0c57b5ac0d" />
+<img width="1917" height="1078" alt="Screenshot 2026-05-16 075413" src="https://github.com/user-attachments/assets/2bdd43ee-c47a-4c23-b4e4-ac80b2b1edf9" />
+<img width="1917" height="1078" alt="Screenshot 2026-05-16 075422" src="https://github.com/user-attachments/assets/ca429af9-9d80-4ad2-aeca-fa5d5acf91d7" />
+<img width="1918" height="1077" alt="Screenshot 2026-05-16 075430" src="https://github.com/user-attachments/assets/31ea01d3-516d-4b68-8689-25e41715a48a" />
+<img width="1917" height="1078" alt="Screenshot 2026-05-16 075619" src="https://github.com/user-attachments/assets/ffae37be-228a-4b50-b11d-a98dd1bf1a00" />
+
+
 
 ## RESULT :
 Thus the program to detect the edges was executed successfully.
